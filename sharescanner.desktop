@@ -1,0 +1,11 @@
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=Share Scanner
+Comment=Network File Indexer and Downloader
+Exec=/usr/bin/sharescanner.py
+Icon=sharescanner
+Type=Application
+Categories=Network;Application;
+Terminal=false
+StartupNotify=false
