@@ -17,3 +17,15 @@ To install Sharescanner:
 * run 'glib-compile-schemas /usr/share/glib-2.0/schemas/' as root
 
 * Enjoy!
+
+
+Stable Releases
+=========
+
+Stable releases are available on the project's SourceForge page: https://sourceforge.net/projects/share-scanner/
+
+
+Screenshots
+=========
+
+Screenshots are available on the project's SourceForge page: https://sourceforge.net/projects/share-scanner/
